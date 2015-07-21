@@ -43,3 +43,6 @@ main.css.map
 
 # sass cache
 .sass-cache/
+
+# vagrant
+.vagrant/
